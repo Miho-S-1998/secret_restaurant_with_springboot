@@ -77,6 +77,8 @@ springboot:3.0.5(その他はpom.xml参照)
 
 mysql:8.0.32
 
+project:Maven
+
 ## DB設計
 
 ![secret_restaurant mwb](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/9fa652f6-505d-4c96-983c-783bd8ebac57)
