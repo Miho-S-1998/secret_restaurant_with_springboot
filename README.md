@@ -51,7 +51,8 @@ secret_restaurant_with_springboot【秘密のレストラン】
 
 ちなみに登録後、データベースには以下のように情報が入力される。(テーブルを編集しています)
 
-![site_user](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/7cacb4ec-0843-44d6-b787-de84e63402c6)
+
+![site_user](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/ad5b56db-333d-4ed8-8a5b-54d4aa34b5b2)
 
 
 
