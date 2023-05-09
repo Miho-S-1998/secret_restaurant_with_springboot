@@ -61,7 +61,7 @@ Engineer Gateの"springboot"の課題としてHTMLと合わせて2か月間イ�
 
 クリック。一番右端のアイコンの下にお客様ID(ユーザー名)が表示されるので、クリックするとプロフィール画面になる。
 
-![home](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/c294ccb8-9b8d-40b8-a80f-b223e0e439cf)
+![home](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/c8d11c92-bf7b-4e0e-ac09-3cbc753cf416)
 
 ![profile](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/847f7f07-d3eb-4298-a145-cc5653e0d2f1)
 
