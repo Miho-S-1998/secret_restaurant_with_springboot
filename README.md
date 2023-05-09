@@ -31,6 +31,9 @@ secret_restaurant_with_springboot【秘密のレストラン】
 (ログイン画面にて「お客様ID=master」「パスワード=password」でログインすると上部にCUSTOMERボタンが出現)
 
 
+![master](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/f3203179-10b8-4653-800d-0278af050e81)
+
+
 # SECRET RESTAURANTのアプリケーションを利用するまで
 
 1.eclips内のdata.sqlにあるschema文でデータベース(secret_restaurant)をmysqlに作成
