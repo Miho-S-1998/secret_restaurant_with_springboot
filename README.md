@@ -39,7 +39,9 @@ Engineer Gateの"springboot"の課題としてHTMLと合わせて2か月間イ�
 
 2.アプリケーションを起動。起動後は、次のURLにアクセス⇒(http://localhost:8080/login)
 
-3.「新規登録はこちら」で「お客様ID(番号のみのお客様ID不可)」、「パスワード」、「メールアドレス」、「性別」を入力⇒登録
+3.「新規登録はこちら」で「お客様ID(番号のみのお客様ID不可)」、「パスワード」、「メールアドレス」、「性別」を入力
+
+⇒登録
 
 ![ログイン](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/0e56b5c0-02e5-4bb0-8c27-7c1aa188b8b8)
 ![登録](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/573886fc-0aac-4d8c-8756-3d9e8278403b)
