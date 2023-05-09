@@ -49,10 +49,10 @@ secret_restaurant_with_springboot【秘密のレストラン】
 ![ログイン](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/0e56b5c0-02e5-4bb0-8c27-7c1aa188b8b8)
 ![登録](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/573886fc-0aac-4d8c-8756-3d9e8278403b)
 
-ちなみに登録後、データベースには以下のように情報が入力される。(テーブルを編集しています)
+ちなみに登録後、データベースには以下のように情報が入力される。(*テーブルを編集しています)
 
+![site_user](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/f0d856aa-eea5-4a8c-8b16-33dc24078169)
 
-![site_user](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/ad5b56db-333d-4ed8-8a5b-54d4aa34b5b2)
 
 
 
