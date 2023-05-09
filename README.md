@@ -30,7 +30,7 @@ Engineer Gateの"springboot"の課題としてHTMLと合わせて2か月間イ�
 (ログイン画面にて「お客様ID=master」「パスワード=password」でログインすると上部にCUSTOMERボタンが出現)
 
 
-SECRET RESTAURANTのアプリケーションを利用するまでの流れ
+# SECRET RESTAURANTのアプリケーションを利用するまでの流れ
 
 1.eclips内のdata.sqlにあるschema文でデータベース(secret_restaurant)をmysqlに作成
 
