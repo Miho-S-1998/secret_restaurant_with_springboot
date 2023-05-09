@@ -74,6 +74,16 @@ secret_restaurant_with_springboot【秘密のレストラン】
 
 ![profile](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/847f7f07-d3eb-4298-a145-cc5653e0d2f1)
 
+7.もし顧客情報に変更が生じた場合は従業員に申告の上、従業員が変更するのが規則。
+
+(id=2を"ネコ吉"から"ネコ太"に名前変更。なので"ネコ吉"でログインしようとするとエラーになる。)
+
+![sql2](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/2299fd3a-bfe2-41f8-b325-9abe0362bfd2)
+
+![login](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/10c88cd1-eb8c-444e-b65a-8c911519bdf1)
+
+![error](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/e184e412-6fdd-4589-b182-4a001ccfed30)
+
 ## 設計(このアプリを作成した時の環境)
 
 OS:Windows11 Home
@@ -122,8 +132,8 @@ data.sql=schema文を記述(テーブルのcreate文は使用しなくても動�
 
 # Last(この作品を見て頂く皆様へ)
 
-本アプリケーションはSpringbootとHTMLを2ヵ月以上かけて独学して作成したものであるため、必要に応じて改善予定。
+・本アプリケーションはSpringbootとHTMLを2ヵ月以上かけて独学して作成したものであるため、必要に応じて改善予定。
 
-本アプリケーションを起動する前にschema文でデータベース作成してから起動してください。エラーになります。
+・本アプリケーションを起動する前にschema文でデータベース作成してから起動してください。エラーになります。
 
-本作品のMenuに出てくる料理(チーズトーストとブラックコーヒーを除く)とwebページデザインは全て一から手作りしました。
+・本作品のMenuに出てくる料理(チーズトーストとブラックコーヒーを除く)とwebページデザインは全て一から手作りしました。
