@@ -47,11 +47,21 @@ Engineer Gateの"springboot"の課題としてHTMLと合わせて2か月間イ�
 
 4.再度ログイン画面が表示されるので「お客様ID」と「パスワード」を入力してログイン
 
+![login](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/eb85c99a-32e0-4585-92e4-1526af4fc0e9)
+
+
 5.ログイン成功のメッセージの下にある「マンチカンのホームページに移動」をクリック
+
+![success](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/9463592c-52ed-48f4-830c-d0b8644f6bb3)
+
 
 6.SECRET RESTAURANTのホームページが表示されるので上部の「NEWS」「MENU」「CONTACT」の中から見たいページを
 
 クリック。一番右端のアイコンの下にお客様ID(ユーザー名)が表示されるので、クリックするとプロフィール画面になる。
+
+![home](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/c294ccb8-9b8d-40b8-a80f-b223e0e439cf)
+
+![profile](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/847f7f07-d3eb-4298-a145-cc5653e0d2f1)
 
 ## 設計(このアプリを作成した時の環境)
 
