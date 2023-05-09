@@ -85,7 +85,10 @@ project:Maven
 ![secret_restaurant mwb](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/9fa652f6-505d-4c96-983c-783bd8ebac57)
 
 
-## パッケージ構成
+## パッケージ!
+
+[構成](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/87d4e371-01df-4d72-9ba7-c9216f68fea6)
+構成
 
 ### src_main
 
@@ -104,6 +107,9 @@ util=ユーティリティクラス(共通処理などを記述)
 validator=重複登録の防止する処理などを記述
 
 ## src_resource
+
+![構成2](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/2a708eb6-7f51-4f3b-bb29-da5672cfa435)
+
 
 data.sql=schema文を記述(テーブルのcreate文は使用しなくても動作することは確認済み)
 
