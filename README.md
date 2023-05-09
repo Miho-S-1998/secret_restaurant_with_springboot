@@ -30,13 +30,20 @@ Engineer Gateの"springboot"の課題としてHTMLと合わせて2か月間イ�
 (ログイン画面にて「お客様ID=master」「パスワード=password」でログインすると上部にCUSTOMERボタンが出現)
 
 
-# SECRET RESTAURANTのアプリケーションを利用するまでの流れ
+# SECRET RESTAURANTのアプリケーションを利用するまで
 
 1.eclips内のdata.sqlにあるschema文でデータベース(secret_restaurant)をmysqlに作成
+
+![sql](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/de6c3b28-fd4b-4992-bd4a-d10b34789a50)
+
 
 2.アプリケーションを起動。起動後は、次のURLにアクセス⇒(http://localhost:8080/login)
 
 3.「新規登録はこちら」で「お客様ID(番号のみのお客様ID不可)」、「パスワード」、「メールアドレス」、「性別」を入力⇒登録
+
+![ログイン](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/0e56b5c0-02e5-4bb0-8c27-7c1aa188b8b8)
+![登録](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/573886fc-0aac-4d8c-8756-3d9e8278403b)
+
 
 4.再度ログイン画面が表示されるので「お客様ID」と「パスワード」を入力してログイン
 
