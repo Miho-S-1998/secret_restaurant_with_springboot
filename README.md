@@ -89,7 +89,6 @@ project:Maven
 ## パッケージ!
 
 [構成](https://github.com/Miho-S-1998/secret_restaurant_with_springboot/assets/122101928/87d4e371-01df-4d72-9ba7-c9216f68fea6)
-構成
 
 ### src_main
 
